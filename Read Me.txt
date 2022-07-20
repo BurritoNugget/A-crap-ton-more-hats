@@ -1,0 +1,33 @@
+This is a collection of all of my hats that ive create so far i will update this everytime i upload hats this includes these hats so far
+
+-Saturn
+-Star_Destroyer
+-DarkWars
+-Stressed_Pepe
+-Blue_Dragon_AK47
+-Doouble_Blue_Dragon_AK47
+-Fancy_Fedora
+-Thanos Mask
+-Iron Man Mask
+-Fancy Fedora Plain White
+-Fancy Fedora Gold&Rainbow
+-Jester Hat
+-Go Pro
+-Krusty Krab Hat
+-Husky's Birthday Hat
+-Spiderman Mask
+-Stitch
+-Fancy Fedora Rainbow
+-Zero Ship
+-DJ Board
+-Star Wars Tie Fighter
+-Sussy Baka
+-Easter Basket no eggs
+-Easter Basket With eggs
+-Thinking Around
+-Retro Computer
+-Double Minigun
+-Double Minigun Ship
+
+
+How To Install Put All Of The .hat files into the Gorilla Tag/BepInEx/plugins/GorillaCosmetics/Hats 
